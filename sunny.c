@@ -1,5 +1,6 @@
 #include <stdio.h>
+
 int main() {
-    printf("Hello, Sunny C Coding!\n");
+    printf("Hello, World!\n");
     return 0;
 }
